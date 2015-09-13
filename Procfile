@@ -1,1 +1,1 @@
-web: bin/hubot -a chatwork
+web: bin/hubot -a chatwork --name bot
